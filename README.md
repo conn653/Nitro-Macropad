@@ -3,11 +3,11 @@
 ## Overview
 The Nitro-Macropad is a 9-key mechanical macro pad with a rotary encoder and an OLED display, powered by the Seeed XIAO RP2040. Designed in KiCad and running on KMK Firmware. The 9 keys are arranged in a 3x3 grid.
 
-| Full Case | Case Render |
+| Full Case | Case Apart |
 | :---: | :---: |
 | <img src="Images/Full_case.png" width="400"> | <img src="Images/case_render.png" width="400"> |
 
-| PCB Render | Schematic |
+| PCB | Schematic |
 | :---: | :---: |
 | <img src="Images/pcb_render.png" width="400"> | <img src="Images/schematic.png" width="400"> |
 ## Features
