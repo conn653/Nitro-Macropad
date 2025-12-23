@@ -19,7 +19,7 @@ The Nitro-Macropad is a 9-key mechanical macro pad with a rotary encoder and an 
 
 ## Project Structure
 
-* `/Hardware`: KiCad schematic, PCB layout, and Gerber files.
+* `/PCB`: KiCad schematic and PCB layout.
 * `/Case`: 3D printable case files (STEP).
 * `/Firmware`: KMK (CircuitPython) configuration code.
 * `/Production`: Everything you need to replicate the Nitro-Macropad.
